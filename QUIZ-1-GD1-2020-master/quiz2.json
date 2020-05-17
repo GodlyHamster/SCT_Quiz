@@ -1,0 +1,92 @@
+{
+    "quizID": "ColorCodes",
+    "quizMetaData":
+    {
+        "title": "Color code quiz",
+        "imageURI": "https://sd.keepcalms.com/i-w600/keep-calm-and-dont-ask-stupid-questions.jpg"
+
+    },
+    "quizContent":
+		[
+			{
+				"question": "Welke kleur zou #FF0000 zijn?",
+				"answers": [{
+						"answer": "Groen",
+						"feedback": false
+					},
+					{
+						"answer": "Rood",
+						"feedback": true
+					},
+					{
+						"answer": "Roze",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "Welke kleur zou #00FF00 zijn?",
+				"answers": [{
+						"answer": "Magenta",
+						"feedback": false
+					},
+					{
+						"answer": "Geel",
+						"feedback": false
+					},
+					{
+						"answer": "Groen",
+						"feedback": true
+					}
+				]
+			},
+			{
+				"question": "Welke kleur zou #0000FF zijn?",
+				"answers": [{
+						"answer": "Blauw",
+						"feedback": true
+					},
+					{
+						"answer": "Geel",
+						"feedback": false
+					},
+					{
+						"answer": "Cyaan",
+						"feedback": false
+					}
+				]
+			},
+      {
+				"question": "Welke kleur zou #FF00FF zijn?",
+				"answers": [{
+						"answer": "Paars",
+						"feedback": false
+					},
+					{
+						"answer": "Roze",
+						"feedback": true
+					},
+					{
+						"answer": "Geel",
+						"feedback": false
+					}
+				]
+			},
+      {
+				"question": "Welke kleur zou #00FFFF zijn?",
+				"answers": [{
+						"answer": "Geel",
+						"feedback": true
+					},
+					{
+						"answer": "Bruin",
+						"feedback": false
+					},
+					{
+						"answer": "Magenta",
+						"feedback": false
+					}
+				]
+			}
+		]
+	}

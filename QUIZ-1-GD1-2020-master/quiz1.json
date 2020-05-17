@@ -1,0 +1,137 @@
+{
+    "quizID": "ColorCodes",
+    "quizMetaData":
+    {
+        "title": "Color code quiz",
+        "imageURI": "https://wallpaperset.com/w/full/0/8/5/181667.jpg"
+
+    },
+    "quizContent":
+		[
+			{
+				"question": "Welke kleur zou #FF0000 zijn?",
+				"answers": [{
+						"answer": "Groen",
+						"feedback": false
+					},
+					{
+						"answer": "Rood",
+						"feedback": true
+					},
+					{
+						"answer": "Roze",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "Welke kleur zou #00FF00 zijn?",
+				"answers": [{
+						"answer": "Magenta",
+						"feedback": false
+					},
+					{
+						"answer": "Geel",
+						"feedback": false
+					},
+					{
+						"answer": "Groen",
+						"feedback": true
+					}
+				]
+			},
+			{
+				"question": "Welke kleur zou #0000FF zijn?",
+				"answers": [{
+						"answer": "Blauw",
+						"feedback": true
+					},
+					{
+						"answer": "Geel",
+						"feedback": false
+					},
+					{
+						"answer": "Cyaan",
+						"feedback": false
+					}
+				]
+			},
+      {
+				"question": "Welke kleur zou #FF00FF zijn?",
+				"answers": [{
+						"answer": "Paars",
+						"feedback": false
+					},
+					{
+						"answer": "Roze",
+						"feedback": true
+					},
+					{
+						"answer": "Geel",
+						"feedback": false
+					}
+				]
+			},
+      {
+				"question": "Welke kleur zou #00FFFF zijn?",
+				"answers": [{
+						"answer": "Cyaan",
+						"feedback": true
+					},
+					{
+						"answer": "Turquoise",
+						"feedback": false
+					},
+					{
+						"answer": "Geel",
+						"feedback": false
+					}
+				]
+			},{
+				"question": "Welke kleur zou #FFFF00 zijn?",
+				"answers": [{
+						"answer": "Bruin",
+						"feedback": false
+					},
+					{
+						"answer": "Geel",
+						"feedback": true
+					},
+					{
+						"answer": "Magenta",
+						"feedback": false
+					}
+				]
+			},{
+				"question": "Welke kleur zou #FFFFFF zijn?",
+				"answers": [{
+						"answer": "Zwart",
+						"feedback": false
+					},
+					{
+						"answer": "Wit",
+						"feedback": true
+					},
+					{
+						"answer": "Bruin",
+						"feedback": false
+					}
+				]
+			},{
+				"question": "Welke kleur zou #8C008C zijn?",
+				"answers": [{
+						"answer": "Licht-Paars",
+						"feedback": false
+					},
+					{
+						"answer": "Roze",
+						"feedback": false
+					},
+					{
+						"answer": "Paars",
+						"feedback": true
+					}
+				]
+			}
+		]
+	}
